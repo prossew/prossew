@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi there
+Hi! 👋
 
-<!--
-**prossew/prossew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Nikita, I am a frontend developer.
 
-Here are some ideas to get you started:
+I believe that through thorns you can break through to the stars, so each project is not just a task for me, but a step towards mastery. From the layout of landing pages to working with the API, I get pumped through practice.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ My stack:
+
+Basic: React, JavaScript, SCSS, HTML5
+
+Tools: Git, Figma, Vite, npm
+
+📍 Now: Ready for real-world tasks and commercial projects
+
+I am looking for a team or orders where I can grow and benefit
+
+Learning more deeply: React, TypeScript.
