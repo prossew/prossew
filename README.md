@@ -15,4 +15,3 @@ Tools: Git, Figma, Vite, npm
 
 I am looking for a team or orders where I can grow and benefit
 
-Learning more deeply: React, TypeScript.
