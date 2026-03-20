@@ -1,17 +1,19 @@
-Hi there
-Hi! 👋
+# Hi, I'm Nikita 👋
 
-My name is Nikita, I am a frontend developer.
+Frontend developer focused on React + TypeScript.
+~1 year of self-study, open to first commercial experience.
 
-I believe that through thorns you can break through to the stars, so each project is not just a task for me, but a step towards mastery. From the layout of landing pages to working with the API, I get pumped through practice.
+## 🛠 Stack
+React, TypeScript, JavaScript, Zustand, Tailwind CSS, shadcn/ui,
+SCSS, BEM, Vite, Git, Figma, Node.js (basics)
 
-🛠️ My stack:
+## 🚀 Projects
 
-Basic: React, JavaScript, SCSS, HTML5
+**Crypto Dashboard** - full-stack crypto tracker with live prices and JWT auth  
+React, TypeScript, Zustand, Node.js, SQLite  
+[GitHub](https://github.com/prossew/Crypto-Dashboard-) · [Demo](https://crypto-dashboard-jet.vercel.app/)
 
-Tools: Git, Figma, Vite, npm
-
-📍 Now: Ready for real-world tasks and commercial projects
-
-I am looking for a team or orders where I can grow and benefit
+**GREENMIND** — responsive plant store with custom swipe slider  
+React, JavaScript, SCSS, BEM, Vite  
+[GitHub](https://github.com/prossew/GREENMIND-Shop) · [Demo](https://greenmind-shop.vercel.app/)
 
