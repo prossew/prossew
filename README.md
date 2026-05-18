@@ -1,7 +1,6 @@
 # Hi, I'm Nikita 👋
 
 Frontend developer focused on React + TypeScript.
-~1 year of self-study, open to first commercial experience.
 
 ## 🛠 Stack
 React, TypeScript, JavaScript, Zustand, Tailwind CSS, shadcn/ui,
