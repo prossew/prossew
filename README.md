@@ -1,5 +1,3 @@
-# Hi, I'm Nikita 👋
-
 Frontend developer focused on React + TypeScript.
 
 ## 🛠 Stack
